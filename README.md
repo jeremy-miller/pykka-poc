@@ -1,2 +1,3 @@
-# pykka-poc
-About POC code testing out the Pykka actor library
+# Pykka POC
+
+POC code testing out the [Pykka](https://pykka.readthedocs.io/en/stable/) actor library.
